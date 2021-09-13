@@ -3,7 +3,7 @@
   "publisher": "bartoszmaka95",
   "displayName": "onedark",
   "description": "OneDark theme ported from onedark.nvim",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/bartoszmaka/vscode-onedark"
@@ -13,14 +13,14 @@
   },
   "categories": [
     "Themes"
-    ],
-    "contributes": {
-      "themes": [
-        {
-          "label": "onedark.nvim",
-          "uiTheme": "vs-dark",
-          "path": "./themes/onedark.nvim-color-theme.json"
-        }
-      ]
-    }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "onedark.nvim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onedark.nvim-color-theme.json"
+      }
+    ]
+  }
 }
