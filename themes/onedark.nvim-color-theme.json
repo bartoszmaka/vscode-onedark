@@ -994,7 +994,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#93a4c3"
       }
     },
     {
@@ -1008,21 +1008,21 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#93a4c3"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#93a4c3"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#93a4c3"
       }
     },
     {
@@ -1968,13 +1968,13 @@
     "editorOverviewRuler.addedBackground": "#109868",
     "editorOverviewRuler.deletedBackground": "#9A353D",
     "editorOverviewRuler.modifiedBackground": "#948B60",
-    "editor.selectionBackground": "#67769660",
-    "editor.selectionHighlightBackground": "#ffffff10",
-    "editor.selectionHighlightBorder": "#dddddd",
-    "editor.wordHighlightBackground": "#d2e0ff2f",
-    "editor.wordHighlightBorder": "#7f848e",
-    "editor.wordHighlightStrongBackground": "#abb2bf26",
-    "editor.wordHighlightStrongBorder": "#7f848e",
+    "editor.selectionBackground": "#401437",
+    "editor.selectionHighlightBackground": "#ffffff00",
+    "editor.selectionHighlightBorder": "#ffffff88",
+    "editor.wordHighlightBackground": "#ffffff00",
+    "editor.wordHighlightBorder": "#ffffff88",
+    "editor.wordHighlightStrongBackground": "#ffffffff",
+    "editor.wordHighlightStrongBorder": "#ffffffff",
     "editorActiveLineNumber.foreground": "#737984",
     "editorBracketMatch.background": "#515a6b",
     "editorBracketMatch.border": "#515a6b",
@@ -2063,7 +2063,6 @@
     "terminal.background": "#1A212E",
     "terminal.border": "#abb2bf",
     "terminal.foreground": "#abb2bf",
-    "editor.selectionBackground": "#401437",
     "textBlockQuote.background": "#2e3440",
     "textBlockQuote.border": "#4b5362",
     "textLink.foreground": "#41a7fc",
